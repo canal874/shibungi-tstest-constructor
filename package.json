@@ -1,0 +1,22 @@
+{
+  "name": "shibungi-tstest-constructor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canal874/shibungi-tstest-constructor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canal874/shibungi-tstest-constructor/issues"
+  },
+  "homepage": "https://github.com/canal874/shibungi-tstest-constructor#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
